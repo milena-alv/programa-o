@@ -1,0 +1,24 @@
+*{margin: 0;
+padding: 0;}
+.cabeçalo{background-color: burlywood;
+color: white;
+display: flex;
+justify-content: space-around;
+align-items: center;
+padding: 14px 0;}
+.div-cabecalho-logo{display: flex;}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 7px;
+    font-size: 16px;
+    padding: 20px 0;}
+    .escola-imagem{ width: 20%;}
+    .escola{ background-color: bisque;
+    color: black;
+display: flex;
+justify-content: center;
+align-items: center;
+padding: 24px 0;}
+.escola-titulo{ padding: 24px 0;}
+.escola-texto-um{ padding: 24px 0;}
+.escola-div-conteúdo {width: 35%;}
